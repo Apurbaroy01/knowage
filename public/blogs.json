@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "cover": "/public/Img/2.png",
+    "title": "Exploring the Depths of the Ocean",
+    "author": "Avery Thompson",
+    "img": "/public/Img/boy1.png",
+    "posted": "2025-05-20",
+    "date": "May 20, 2025",
+    "reading_time": "6 min read",
+    "hashtag": ["#Ocean", "#MarineLife", "#Exploration"]
+  },
+  {
+    "id": "2",
+    "cover": "/public/Img/1.jpg",
+    "title": "The Rise of Quantum Computing",
+    "author": "Jordan Liu",
+    "img": "/public/Img/boy2.png",
+    "posted": "2025-05-18",
+    "date": "May 18, 2025",
+    "reading_time": "8 min read",
+    "hashtag": ["#Quantum", "#Technology", "#Future"]
+  },
+  {
+    "id": "3",
+    "cover": "/public/Img/3.png",
+    "title": "Minimalism in Modern Architecture",
+    "author": "Riley Chen",
+    "img": "/public/Img/girl1.jpg",
+    "posted": "2025-05-15",
+    "date": "May 15, 2025",
+    "reading_time": "5 min read",
+    "hashtag": ["#Architecture", "#Minimalism", "#Design"]
+  },
+  {
+    "id": "4",
+    "cover": "/public/Img/4.jpg",
+    "title": "Mastering the Art of Mindfulness",
+    "author": "Morgan Blake",
+    "img": "/public/Img/girl2.jpg",
+    "posted": "2025-05-10",
+    "date": "May 10, 2025",
+    "reading_time": "7 min read",
+    "hashtag": ["#Mindfulness", "#Wellness", "#SelfCare"]
+  },
+  {
+    "id": "5",
+    "cover": "https://example.com/covers/cover5.jpg",
+    "title": "AI in Everyday Life: What to Expect",
+    "author": "Casey Rivera",
+    "img": "https://example.com/images/author5.jpg",
+    "posted": "2025-05-05",
+    "date": "May 5, 2025",
+    "reading_time": "9 min read",
+    "hashtag": ["#AI", "#Innovation", "#TechTrends"]
+  }
+]
